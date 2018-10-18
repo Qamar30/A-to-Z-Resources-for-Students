@@ -162,3 +162,9 @@ You can find me on:
 - You can find me on:
 	- [GitHub](https://github.com/vivekrj0)
 	- [Twitter](http://twitter.com/vivekrj0)
+	
+## Siphiwe Khoza
+- Self taught Web Developer
+- Johannesburg,South-Africa
+- You can find me on:
+	- [GitHub](https://github.com/Qamar30)
